@@ -1,6 +1,6 @@
-package POO;
+package poo;
 
-public class UsoCoche {
+public class UsoCoches {
 
   public static void main(String[] args) {
 
